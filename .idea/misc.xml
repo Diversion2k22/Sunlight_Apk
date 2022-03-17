@@ -35,6 +35,28 @@
         <entry key="..\:/Files/Kotlin/Su/Sunlight_Apk/app/src/main/res/layout/activity_splashs.xml" value="0.22826086956521738" />
         <entry key="..\:/Files/Kotlin/Su/Sunlight_Apk/app/src/main/res/layout/login_tab_fragement.xml" value="0.22826086956521738" />
         <entry key="..\:/Files/Kotlin/Su/Sunlight_Apk/app/src/main/res/layout/signup_fragement.xml" value="0.2" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/drawable/circular.xml" value="0.1525" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/drawable/ic_profilevector.xml" value="0.1465" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/font/roboto.xml" value="0.2593607305936073" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_card_anger.xml" value="0.26153846153846155" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_card_happy.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_card_sad.xml" value="0.17229729729729729" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_chilllocation.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_choose_mood.xml" value="0.2" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_forgot_password.xml" value="0.2111111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_main.xml" value="0.2111111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_memoir.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_movie.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_moviesad.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_movietired.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_music_player.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/activity_splashs.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/exp.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/login_tab_fragement.xml" value="0.2361111111111111" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/menu_contents.xml" value="0.2" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/layout/navigation_header.xml" value="0.176" />
+        <entry key="..\:/gits clone/Sunlight_Apk/app/src/main/res/menu/navigation_menu.xml" value="0.4" />
       </map>
     </option>
   </component>

@@ -9,6 +9,7 @@ import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_card_happy.*
 import kotlinx.android.synthetic.main.activity_choose_mood.*
+import kotlinx.android.synthetic.main.menu_contents.*
 
 class CardHappy : AppCompatActivity() {
 
@@ -16,7 +17,6 @@ class CardHappy : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_card_happy)
-
         music_card.setOnClickListener{
             val openURL = Intent(Intent.ACTION_VIEW)
             openURL.data = Uri.parse("https://open.spotify.com/playlist/3csF6smVDSSnG8QJxAUqSR")

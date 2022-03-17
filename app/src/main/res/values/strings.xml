@@ -50,4 +50,15 @@
     <string name="new_user_register">New User? Register</string>
     <string name="or_signup_using">or SignUp Using</string>
     <string name="default_web_client_id_auth">541117300376-qd6f0idkcof193q4pq5950v5ced683tg.apps.googleusercontent.com</string>
+    <string name="hey_how_do_you_feel_now">Hey!! How are you Feeling ?</string>
+    <string name="feelQuote">...Because Every Feeling Matters!!</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share With Friends</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
 </resources>
