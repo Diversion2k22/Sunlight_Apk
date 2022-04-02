@@ -1,9 +1,14 @@
 package com.example.sunlight
 
+import android.content.Context
 import android.content.Intent
+import android.location.LocationManager
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.provider.Settings
+import android.view.View
+import android.widget.Toast
 import com.example.Sunlight.R
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.firebase.auth.FirebaseAuth
@@ -22,6 +27,12 @@ class CardHappy : AppCompatActivity() {
             openURL.data = Uri.parse("https://open.spotify.com/playlist/3csF6smVDSSnG8QJxAUqSR")
             startActivity(openURL)
         }
+        chill_location.setOnClickListener{
+            val gmmIntentUri =
+                Uri.parse("geo:0,0?q=" + Uri.encode("Park, Restaurants"))
+            val mapIntent = Intent(Intent.ACTION_VIEW, gmmIntentUri)
+            mapIntent.setPackage("com.google.android.apps.maps")
+            startActivity(mapIntent)
         movie_card.setOnClickListener{ startActivity(Intent(this, movie::class.java))}
 
 
@@ -38,4 +49,5 @@ class CardHappy : AppCompatActivity() {
         }
 
     }
+}
 }
